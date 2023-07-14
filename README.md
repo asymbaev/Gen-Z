@@ -1,4 +1,4 @@
-# Gen-Z
+# HHwork
 Home work help and discussion chat
 ![Screen Shot 2022-09-09 at 12 39 48 PM](https://user-images.githubusercontent.com/45031131/189412123-10665245-b398-4456-9acc-61931ead640b.png)
 ![Screen Shot 2022-09-09 at 12 40 02 PM](https://user-images.githubusercontent.com/45031131/189412134-b8ae9b6c-b945-4c2c-82a3-b00dc3d312e8.png)
